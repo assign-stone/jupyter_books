@@ -1,1 +1,1 @@
-# jupyter_books
+# jupyter_notebooks
